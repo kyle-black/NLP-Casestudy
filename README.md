@@ -37,6 +37,30 @@
   
   ![alt text](https://github.com/kyle-black/NLP-Casestudy/blob/main/hierachical_tree.jpg)
   
+  #  Top  20 Most Common Words
+  
+  [('like', 6591),
+ ('back', 6463),
+ ('heard', 6240),
+ ('saw', 5259),
+ ('could', 4946),
+ ('road', 4646),
+ ('see', 4468),
+ ('one', 4429),
+ ('around', 4323),
+ ('area', 4276),
+ ('time', 4117),
+ ('us', 4063),
+ ('would', 3888),
+ ('something', 3611),
+ ('woods', 3479),
+ ('looked', 3398),
+ ('went', 3368),
+ ('got', 3288),
+ ('feet', 3200),
+ ('night', 3099)]
+  
+  
  
  
   
