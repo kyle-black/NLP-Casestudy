@@ -6,15 +6,14 @@
 
 ### Text Processing
 
- -In order to parse out our data we used Beautiful soup’s HTML parser to find ‘p’ within the content in order to separate the starts and stops of the paragraphs.
+-In order to parse out our data we used Beautiful soup’s HTML parser to find ‘p’ within the content in order to separate the starts and stops of the paragraphs.
   
- -This left us with 4405 observed accounts.  
+-This left us with 4405 observed accounts.  
+   
+- Snowball : We used to get words to their roots.
+- Wordnet to connect words using their synonyms and homonyms
   
- - Porter Stemmer: We used to get words to their roots.
- - Snowball : 
- - Wordnet to connect words using their synonyms and homonyms
-  
-  
+ ![alt text](https://github.com/kyle-black/NLP-Casestudy/blob/main/Screen%20Shot%202021-03-26%20at%205.28.58%20PM.png)
  
  
  ###  ML Algorithms
@@ -33,6 +32,6 @@
   
   
   
-  
+ 
  
   
