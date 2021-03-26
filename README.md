@@ -35,7 +35,7 @@
   
   
   
-  ![alt text]()
+  ![alt text](https://github.com/kyle-black/NLP-Casestudy/blob/main/hierachical_tree.jpg)
   
  
  
