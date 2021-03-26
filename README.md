@@ -1,8 +1,11 @@
 # NLP-Casestudy
 
 
+### Object
+- Find what the clustering of first had accounts of Bigfoot sightings.
+
 ### RAW DATA
-- We imported the Bigfoot data file. Within the JSON we found dictionaries that included,  _id, # URL,  HTML, and time. We focused our energy on the HTML dictionary key values, which contained first hand accounts of Big Foot sightings.
+- We imported the Bigfoot data file. Within the JSON we found dictionaries that included,  _id,  URL,  HTML, and time. We focused our energy on the HTML dictionary key values, which contained first hand accounts of Big Foot sightings.
 
 ### Text Processing
 
@@ -29,6 +32,8 @@
   # 5: heard, sound, like, sounds, loud, scream, sounded, howl, night, woods
   # 6: river, water, fishing, boat, heard, saw, like, just, bank, area
   # 7: saw, creature, like, looked, tall, feet, woods, seen, just, large 
+  
+  
   
   
   
