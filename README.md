@@ -2,7 +2,7 @@
 
 
 ### Object
-- Find what the clustering of first had accounts of Bigfoot sightings.
+- Find clustering of first hand accounts of Bigfoot sightings.
 
 ### RAW DATA
 - We imported the Bigfoot data file. Within the JSON we found dictionaries that included,  _id,  URL,  HTML, and time. We focused our energy on the HTML dictionary key values, which contained first hand accounts of Big Foot sightings.
@@ -59,7 +59,7 @@
  ('got', 3288),
  ('feet', 3200),
  ('night', 3099)]
-  
+
   
  
  
